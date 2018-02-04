@@ -15,7 +15,7 @@ style: """
     -moz-osx-font-smoothing: grayscale
 
     &:after
-      content: 'Casinocoin'
+      content: 'CasinoCoin'
       position: absolute
       left: 17px
       top: -32px
